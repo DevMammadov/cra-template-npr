@@ -1,1 +1,1 @@
-# template for npr cli
+## npr ( new pattern react ) cli template ( typescript )
