@@ -1,1 +1,1 @@
-# npr
+# template for npr cli
